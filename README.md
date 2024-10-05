@@ -1,2 +1,6 @@
 # obsidian
 
+a
+
+
+gg
