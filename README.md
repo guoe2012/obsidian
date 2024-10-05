@@ -1,6 +1,1 @@
 # obsidian
-
-a
-
-
-gg
